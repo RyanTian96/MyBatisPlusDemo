@@ -1,2 +1,2 @@
 # MyBatisPlusDemo
-基于MyBatis搭建的基本使用框架
+JAVA快速开始的后端框架
